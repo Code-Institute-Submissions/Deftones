@@ -1,16 +1,27 @@
+html,
 body {
-	/*padding-top: 70px;*/
-	height:100%;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+#main-container {
+	min-height: 100%;
+	position: relative;
+	background-color: grey;
+}
+
+#body-template {
+	padding-bottom: 80px;   /* Height of the footer */
 }
 
 footer {
-	width: 100%;
 	background-color: black;
 	color: gray;
-/*	position: fixed;*/
+	position: absolute;
 	bottom: 0;
 	height: 80px;
-	margin-top: 0px;
+	width: 100%;
 }
 
 footer p {
@@ -25,7 +36,7 @@ table {
 	margin-top: 50px;
 	padding-top: 50px;
 	min-height: 100%;
-	background-color: gray;
+	background-color: grey;
 }
 
 .video {
@@ -33,9 +44,9 @@ table {
 }
 
 .news {
-	margin: 50px 0px 100px 0px;
+	margin: 50px 0px 150px 0px;
 	width:500px;
-	height:500px;
+	height:600px;
 	overflow-y: auto;
 	padding: 40px;
 	border: 5px solid white;
@@ -83,10 +94,6 @@ fieldset button {
 	width: 70px;
 }
 
-/*fieldset input {
-	width: 200px;
-}*/
-
 .home_background {
 	background-image: url("images/background.jpg");
 	background-size: cover;
@@ -103,10 +110,12 @@ fieldset button {
 	margin-top: 50px;
 }
 
-/*to centre the carousel images*/
+/*to style the carousel images*/
 .carousel-inner img {
-  margin: auto;
-  max-height: 500px;
+	margin: auto;
+	max-height: 500px
+	margin-top: 50px;
+	margin-bottom: 50px;
 }
 /*to style the carousel text*/
 .item {
@@ -115,8 +124,18 @@ fieldset button {
 	margin-bottom: 100px;
 }
 
+/*Add gap between carousel and footer*/
+.carousel-inner {
+	margin-bottom: 50px;
+}
+
 #Player1 {
 	width: 360px;
+	margin-bottom: 30px;
+}
+
+#register_button {
+	margin-bottom: 30px;
 }
 
 @media screen and (min-width:768px){}
