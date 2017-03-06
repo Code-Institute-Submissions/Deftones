@@ -1,4 +1,4 @@
-<div class="home_background">
+<div class="band_background">
 	<div class="reg_form">
 		<form data-ng-submit="submitForm()">
 			<fieldset><!--creates a grouping for the labels-->
@@ -14,7 +14,7 @@
 					</p>
 
 					<p>
-						<label for="password" class ="field">*</label>
+						<label for="password" class ="field">* Password:</label>
 						<input id="password" name="password" placeholder="Re-enter password" type="password" required />
 					</p>
 			</fieldset>
@@ -63,9 +63,9 @@
 
 			<fieldset>
 				<p>
-					<button type="submit" class="btn btn-success">Join</button>
+					<button type="submit" id="reg-join" class="btn btn-success">Join</button>
 
-					<button type="button" ng-click="canForm()" class="btn btn-danger">Cancel</button>
+					<button type="button" id="reg-cancel" ng-click="canForm()" class="btn btn-danger">Cancel</button>
 				</p>
 		</form>
 	</div>
