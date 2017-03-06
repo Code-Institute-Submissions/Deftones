@@ -1,90 +1,228 @@
 [
 {
-	"date": "APR 18",
+	"date": "18 APR 2017",
 	"venue": "GASOMETER",
 	"location": "Vienna, Austria"
 },
 
 {
-	"date": "APR 19",
+	"date": "19 APR 2017",
 	"venue": "ZENITH",
 	"location": "Munchen, Germany"
 },
 
 {
-	"date": "APR 20",
+	"date": "20 APR 2017",
 	"venue": "HALLE 662",
 	"location": "Zurich, Switzerland"
 },
 
 {
-	"date": "APR 21",
+	"date": "21 APR 2017",
 	"venue": "FABRIQUE",
 	"location": "Milan, Italy"
 },
 
 {
-	"date": "APR 23",
+	"date": "23 APR 2017",
 	"venue": "STADTHALLE",
 	"location": "Offenbach, Germany"
 },
 
 {
-	"date": "APR 24",
+	"date": "24 APR 2017",
 	"venue": "013",
 	"location": "Tilburg, Netherlands"
 },
 
 {
-	"date": "APR 25",
+	"date": "25 APR 2017",
 	"venue": "ROCKHAL",
 	"location": "Luxembourg, Luxembourg"
 },
 
 {
-	"date": "APR 27",
+	"date": "27 APR 2017",
 	"venue": "VELODROM",
 	"location": "Berlin, Germany"
 },
 
 {
-	"date": "APR 28",
+	"date": "28 APR 2017",
 	"venue": "SPORTHALLE",
 	"location": "Hamburg, Germany"
 },
 
 {
-	"date": "APR 29",
+	"date": "29 APR 2017",
 	"venue": "GROEZROCK",
 	"location": "Meerhout, Belgium"
 },
 
 {
-	"date": "MAY 01",
+	"date": "01 MAY 2017",
 	"venue": "PALLADIUM",
 	"location": "Koln, Germany"
 },
 
 {
-	"date": "MAY 02",
+	"date": "02 MAY 2017",
 	"venue": "OLYMPIA",
 	"location": "Paris, France"
 },
 
 {
-	"date": "MAY 05",
+	"date": "05 MAY 2017",
 	"venue": "ALEXANDRA PALACE",
 	"location": "London, United Kingdom"
 },
 
 {
-	"date": "MAY 06",
+	"date": "06 MAY 2017",
 	"venue": "O2 APOLLO",
 	"location": "Manchester, United Kingdom"
 },
 
 {
-	"date": "MAY 07",
+	"date": "07 MAY 2017",
 	"venue": "SECC",
 	"location": "Glasgow, United Kingdom"
+},
+
+{
+	"date": "09 MAY 2017",
+	"venue": "VICAR STREET",
+	"location": "Dublin, Ireland"
+},
+
+{
+	"date": "10 MAY 2017",
+	"venue": "VICAR STREET",
+	"location": "Dublin, Ireland"
+},
+
+{
+	"date": "09 JUN 2017",
+	"venue": "HUNTINGTON BANK PAVILION AT NORTHERLY ISLAND",
+	"location": "Chicago, IL"
+},
+
+{
+	"date": "10 JUN 2017",
+	"venue": "MICHEGAN LOTTERY AMPHITHEATRE AT FREEDOM HILL",
+	"location": "Sterling Heights, MI"
+},
+
+{
+	"date": "11 JUN 2017",
+	"venue": "BUDWEISER STAGE",
+	"location": "Toronto, Canada"
+},
+
+{
+	"date": "13 JUN 2017",
+	"venue": "NORTHWELL HEALTH AT JONES BEACH THEATRE",
+	"location": "Wantagh, NY"
+},
+
+{
+	"date": "16 JUN 2017",
+	"venue": "BLUE HILLS BANK PAVILION",
+	"location": "Boston, MA"
+},
+
+{
+	"date": "17 JUN 2017",
+	"venue": "FESTIVAL PIER AT PENN'S LANDING",
+	"location": "Philadelphia, PA"
+},
+
+{
+	"date": "18 JUN 2017",
+	"venue": "RED HAT AMPHITHEATRE",
+	"location": "Chicago, IL"
+},
+
+{
+	"date": "20 JUN 2017",
+	"venue": "CHARLOTTE METRO CREDIT UNION",
+	"location": "Charlotte, NC"
+},
+
+{
+	"date": "22 JUN 2017",
+	"venue": "MIDFLORIDA CREDIT UNION",
+	"location": "Tampa, FL"
+},
+
+{
+	"date": "23 JUN 2017",
+	"venue": "BAYFRONT AMPHITHEATRE",
+	"location": "Miami, FL"
+},
+
+{
+	"date": "24 JUN 2017",
+	"venue": "DAILY'S PLACE",
+	"location": "Jacksonville, FL"
+},
+
+{
+	"date": "26 JUN 2017",
+	"venue": "CYNTHIA WOODS MITCHELL PAVILION",
+	"location": "The Woodlands, TX"
+},
+
+{
+	"date": "27 JUN 2017",
+	"venue": "STARPLEX PAVILION",
+	"location": "Chicago, IL"
+},
+
+{
+	"date": "28 JUN 2017",
+	"venue": "AUSTIN360",
+	"location": "Austin, TX"
+},
+
+{
+	"date": "30 JUN 2017",
+	"venue": "PEPSI CENTRE",
+	"location": "Denver, CO"
+},
+
+{
+	"date": "01 JUL 2017",
+	"venue": "USANA AMPHITHEATRE",
+	"location": "Salt Lake City, UT"
+},
+
+{
+	"date": "03 JUL 2017",
+	"venue": "WHITE RIVER AMPHITHEATRE",
+	"location": "Seattle, WA"
+},
+
+{
+	"date": "06 JUL 2017",
+	"venue": "CONCORD PAVILION",
+	"location": "Concord, CA"
+},
+
+{
+	"date": "07 JUL 2017",
+	"venue": "SLEEP TRAIN AMPHITHEATRE",
+	"location": "Chula Vista, CA"
+},
+
+{
+	"date": "08 JUL 2017",
+	"venue": "DOWNTOWN LAS VEGAS EVENT CENTRE",
+	"location": "Las Vegas, NV"
+},
+
+{
+	"date": "09 JUL 2017",
+	"venue": "AK CHIN PAVILION",
+	"location": "Phoenix, AZ"
 }]
