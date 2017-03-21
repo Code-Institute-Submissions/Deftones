@@ -4,7 +4,7 @@ angular.module('TourService', [])
             getTours: function() {
                 var url = '/data/tour.json';
                 return $http.get(url);
-            },
+            }
         };
         return TourAPIService;
     });

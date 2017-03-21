@@ -25,4 +25,4 @@ angular.module('RouteControllers', [])
         $scope.canForm = function() {
             $location.path('/');
         }
-    })
+    });
