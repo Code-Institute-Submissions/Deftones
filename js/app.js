@@ -1,7 +1,9 @@
 angular.module('Deftones', ['ngRoute', 'angular-storage', 'RouteControllers',
                            'TourService', 'DeftonesDirective']);
 
-angular.module('Deftones').config(function($routeProvider) {
+angular.module('Deftones').config(function($locationProvider, $routeProvider) {
+	$locationProvider.html5mode(true);  // Enable href routing without hashes
+	
     $routeProvider.when('/', {
         templateUrl: 'templates/home.html',
         controller: 'HomeController'

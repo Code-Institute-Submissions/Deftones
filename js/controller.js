@@ -18,11 +18,11 @@ angular.module('RouteControllers', [])
     })
     .controller('RegisterController', function($scope, $location) {
         $scope.submitForm = function() {
-            $location.path('/');
+            $location.path('.');
             setTimeout(function(){
                 alert('Congratulations! You are now a member of this site'); }, 1000);
         };
         $scope.canForm = function() {
-            $location.path('/');
+            $location.path('.');
         }
     });
